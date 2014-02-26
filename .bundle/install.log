@@ -1,0 +1,9 @@
+# Logfile created on 2014-02-25 17:22:01 -0800 by logger.rb/44203
+I, [2014-02-25T17:22:01.213292 #50699]  INFO -- : 0:  daemons (1.1.9) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/daemons-1.1.9.gemspec
+I, [2014-02-25T17:22:09.274788 #50699]  INFO -- : 0:  eventmachine (1.0.3) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/eventmachine-1.0.3.gemspec
+I, [2014-02-25T17:22:09.275412 #50699]  INFO -- : 0:  rack (1.5.2) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-25T17:22:09.661071 #50699]  INFO -- : 0:  rack-protection (1.5.2) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-02-25T17:22:09.661474 #50699]  INFO -- : 0:  tilt (1.4.1) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-02-25T17:22:10.153887 #50699]  INFO -- : 0:  sinatra (1.4.4) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-02-25T17:22:11.457736 #50699]  INFO -- : 0:  thin (1.6.1) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/thin-1.6.1.gemspec
+I, [2014-02-25T17:22:11.458472 #50699]  INFO -- : 0:  bundler (1.5.1) from /Users/joel/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/bundler-1.5.1.gemspec
