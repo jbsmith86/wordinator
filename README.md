@@ -12,8 +12,9 @@ ruby server.rb
 
 navigate to localhost:4567 and pass a word1 and word2 parameter
 
-http://localhost:4567/?word1=blog&word2=glob
-  returns the following:
+navigating to: http://localhost:4567/?word1=blog&word2=glob
+
+returns the following:
 ```json
 {"is_anagram":true,"word1":"blog","word2":"glob"}
 ```
